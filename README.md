@@ -1,17 +1,15 @@
 # Hi, I'm Varun. 
-**Software Engineer | Full-Stack Development & AI/ML**
 I build scalable software and AI-powered applications, with professional experience across enterprise banking, financial technology, and applied machine learning.
 
 ## Featured Project
 
 ### [Adaptive Chess Trainer](https://github.com/VCRAM99/adaptive-chess-trainer)
 
-A chess training application featuring Stockfish-powered adaptive opponents, real-time player skill estimation, and post-game analysis.
+Realtime adaptive Stockfish powered Chess Training Application. (+Postgame Analysis)
 
 ## Tech Stack
 
 **Languages**
-
 ![Python](https://img.shields.io/badge/Python-222222?style=flat)
 ![TypeScript](https://img.shields.io/badge/TypeScript-222222?style=flat)
 ![JavaScript](https://img.shields.io/badge/JavaScript-222222?style=flat)
@@ -20,7 +18,6 @@ A chess training application featuring Stockfish-powered adaptive opponents, rea
 ![C++](https://img.shields.io/badge/C%2B%2B-222222?style=flat)
 
 **Frameworks & Tools**
-
 ![React](https://img.shields.io/badge/React-222222?style=flat)
 ![Next.js](https://img.shields.io/badge/Next.js-222222?style=flat)
 ![Node.js](https://img.shields.io/badge/Node.js-222222?style=flat)
@@ -30,7 +27,6 @@ A chess training application featuring Stockfish-powered adaptive opponents, rea
 ![Docker](https://img.shields.io/badge/Docker-222222?style=flat)
 
 **AI & Machine Learning**
-
 ![OpenAI API](https://img.shields.io/badge/OpenAI%20API-222222?style=flat)
 ![Gemini API](https://img.shields.io/badge/Gemini%20API-222222?style=flat)
 ![RAG](https://img.shields.io/badge/RAG-222222?style=flat)
