@@ -7,31 +7,44 @@ I build scalable software and AI-powered applications, with professional experie
 
 Chess trainer featuring real-time adaptive difficulty, skill estimation, and post-game analysis.
 
-## Tech Stack
 
-**Languages**
-![Python](https://img.shields.io/badge/Python-222222?style=flat)
-![TypeScript](https://img.shields.io/badge/TypeScript-222222?style=flat)
-![JavaScript](https://img.shields.io/badge/JavaScript-222222?style=flat)
-![Java](https://img.shields.io/badge/Java-222222?style=flat)
-![SQL](https://img.shields.io/badge/SQL-222222?style=flat)
-![C++](https://img.shields.io/badge/C%2B%2B-222222?style=flat)
+<h2>Tech Stack</h2>
 
-**Frameworks & Tools**
-![React](https://img.shields.io/badge/React-222222?style=flat)
-![Next.js](https://img.shields.io/badge/Next.js-222222?style=flat)
-![Node.js](https://img.shields.io/badge/Node.js-222222?style=flat)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-222222?style=flat)
-![Supabase](https://img.shields.io/badge/Supabase-222222?style=flat)
-![Azure](https://img.shields.io/badge/Azure-222222?style=flat)
-![Docker](https://img.shields.io/badge/Docker-222222?style=flat)
-
-**AI & Machine Learning**
-![OpenAI API](https://img.shields.io/badge/OpenAI%20API-222222?style=flat)
-![Gemini API](https://img.shields.io/badge/Gemini%20API-222222?style=flat)
-![RAG](https://img.shields.io/badge/RAG-222222?style=flat)
-![LLM Integration](https://img.shields.io/badge/LLM%20Integration-222222?style=flat)
-![OpenCV](https://img.shields.io/badge/OpenCV-222222?style=flat)
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-222222" alt="Python">
+      <img src="https://img.shields.io/badge/TypeScript-222222" alt="TypeScript">
+      <img src="https://img.shields.io/badge/JavaScript-222222" alt="JavaScript">
+      <img src="https://img.shields.io/badge/Java-222222" alt="Java">
+      <img src="https://img.shields.io/badge/SQL-222222" alt="SQL">
+      <img src="https://img.shields.io/badge/C%2B%2B-222222" alt="C++">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frameworks &amp; Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-222222" alt="React">
+      <img src="https://img.shields.io/badge/Next.js-222222" alt="Next.js">
+      <img src="https://img.shields.io/badge/Node.js-222222" alt="Node.js">
+      <img src="https://img.shields.io/badge/TensorFlow-222222" alt="TensorFlow">
+      <img src="https://img.shields.io/badge/Supabase-222222" alt="Supabase">
+      <img src="https://img.shields.io/badge/Azure-222222" alt="Azure">
+      <img src="https://img.shields.io/badge/Docker-222222" alt="Docker">
+    </td>
+  </tr>
+  <tr>
+    <td><b>AI &amp; Machine Learning</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/OpenAI%20API-222222" alt="OpenAI API">
+      <img src="https://img.shields.io/badge/Gemini%20API-222222" alt="Gemini API">
+      <img src="https://img.shields.io/badge/RAG-222222" alt="RAG">
+      <img src="https://img.shields.io/badge/LLM%20Integration-222222" alt="LLM Integration">
+      <img src="https://img.shields.io/badge/OpenCV-222222" alt="OpenCV">
+    </td>
+  </tr>
+</table>
 
 
 <p align="center">
