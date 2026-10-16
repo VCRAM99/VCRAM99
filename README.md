@@ -5,7 +5,7 @@ I build scalable software and AI-powered applications, with professional experie
 
 ### [Adaptive Chess Trainer](https://github.com/VCRAM99/adaptive-chess-trainer)
 
-Realtime adaptive Stockfish powered Chess Training Application. (+Postgame Analysis)
+Chess trainer featuring real-time adaptive difficulty, skill estimation, and post-game analysis.
 
 ## Tech Stack
 
