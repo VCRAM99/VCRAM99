@@ -1,4 +1,5 @@
-# Hi, I'm Varun. **Software Engineer | Full-Stack Development & AI/ML**
+# Hi, I'm Varun. 
+**Software Engineer | Full-Stack Development & AI/ML**
 I build scalable software and AI-powered applications, with professional experience across enterprise banking, financial technology, and applied machine learning.
 
 ## Featured Project
