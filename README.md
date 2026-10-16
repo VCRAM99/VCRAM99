@@ -36,6 +36,6 @@ Chess trainer featuring real-time adaptive difficulty, skill estimation, and pos
 
 <p align="center">
   <a href="https://varunsr.com/#contact">
-    <img src="https://img.shields.io/badge/Let's%20Talk%20More-222222?style=for-the-badge&logoColor=white" alt="Let's Talk More" />
+    <img src="https://img.shields.io/badge/LET'S%20TALK%20MORE-FFFFFF?style=for-the-badge&labelColor=FFFFFF&color=FFFFFF&logoColor=111111" alt="Let's Talk More" />
   </a>
 </p>
